@@ -1,9 +1,9 @@
 # Site settings
 title: Link Blog
-SEOTitle: Link的博客 | Link Blog
+SEOTitle: Link Blog | 世间美好与你环环相扣
 header-img: img/post-bg-desk.jpg
 email: 979192956@qq.com
-description: "Every failure is leading towards success."
+description: "不积跬步, 无以至千里; 不积小流, 无以成江海。"
 keyword: "Link, Link Blog, Link的博客, iOS, Apple, iPhone"
 url: "https://sivaty.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
