@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 8b4bcd083154ecaf05f7105cc12f7fbcac1ca6f7    #生成的clientSecret
   repo: sivaty.github.io    #仓库名称
   owner: Sivaty    #github用户名
-  admin: Link
+  admin: Sivaty
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
